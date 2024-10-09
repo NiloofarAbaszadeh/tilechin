@@ -1,0 +1,3 @@
+id,title,tileProperty,buttonSizeClass,useFor,orderOverride,filterValues[]
+Finish,Tile Finish,finish,vl-filter-button-medium,Tiles,-,
+Size,Tile Size,size,vl-filter-button-large,Tiles,-,

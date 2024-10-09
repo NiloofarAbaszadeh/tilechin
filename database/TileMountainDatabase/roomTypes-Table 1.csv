@@ -1,0 +1,7 @@
+type,displayText,defaultTo
+*,همه,y
+Bathroom,حمام,
+Kitchen,آشپزخانه,
+Living Area,اتاق نشیمن,
+Outside,محیط بیرون,
+Saved,نمونه های ذخیره شده,

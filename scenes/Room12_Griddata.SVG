@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room12_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room12_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room12_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room12_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room12_Cube.jpg</vizidoc:environment>	
+</desc>
+<polygon fill="none" id = "grid_WALL1_0" stroke = "#00FF00" points = "1606 -12,1610 590,436 542,432 -16"/>
+<polygon fill="none" id = "quad_WALL1_3000_1662_437_541_0.0_127.2_200.0_2.6_0.0_0.0_0.5_0.6_0.6_1.0_0.0_-12.0_0.0" stroke = "#0000FF" points = "411 -36,1645 -230,1663 655,418 582"/>
+<polygon fill="none" id = "grid_WALL2PAINT_0" stroke = "#00FF00" points = "348 -25,432 -16,436 542,284 555,284 -20"/>
+<polygon fill="none" id = "grid_WALL2PAINT_1" stroke = "#00FF00" points = "-7 839,272 775,273 871,295 875,295 899,-6 994,-11 844"/>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "1685 1196,1598 1174,298 928,295 899,-6 994,-16 1268,1664 1260"/>
+<polygon fill="none" id = "quad_FLOOR1_3355_2165_297_928_-154.6_300.6_200.0_1.8" stroke = "#0000FF" points = "350 882,1786 1126,1516 2064,-618 1178"/>
+<polygon fill="none" id = "grid_FLOOR1OVERLAY_0" stroke = "#00FF00" points = "712 666,1064 693,1066 950,712 898,710 662"/>
+<polygon fill="none" id = "quad_FLOOR1OVERLAY_1912_1529_854_832" stroke = "#0000FF" points = "765 600,1290 629,1152 1010,374 877"/>
+<polygon fill="none" id = "grid_CUPBOARD1_0" stroke = "#00FF00" points = "1603 1099,1096 1009,1096 1005,1062 1001,1062 997,716 939,714 942,691 937,688 941,334 884,334 879,295 875,273 871,272 775,272 574,686 598,687 593,1091 617,1093 622,1608 651"/>
+<polygon fill="none" id = "quad_CUPBOARD1_3180_1116_N_N" stroke = "#0000FF" points = "269 557,1642 629,1641 1178,269 921"/>
+<polygon fill="none" id = "grid_WORKTOP1_0" stroke = "#00FF00" points = "1608 627,263 557,284 555,376 547,436 542,1610 590"/>
+<polygon fill="none" id = "quad_WORKTOP1_1406_2461_N_N" stroke = "#0000FF" points = "85 565,468 515,1630 567,1626 651"/>
+<polygon fill="none" id = "grid_WORKTOP2_0" stroke = "#00FF00" points = "1617 638,1608 651,1093 622,1091 617,687 593,686 598,272 574,263 573,263 557,1608 627"/>
+<polygon fill="none" id = "quad_WORKTOP2_184_2295_N_N" stroke = "#0000FF" points = "248 603,245 533,1616 590,1613 683"/>
+</svg>

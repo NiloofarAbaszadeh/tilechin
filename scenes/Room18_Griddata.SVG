@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room18_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room18_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room18_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room18_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room18_Cube.jpg</vizidoc:environment>
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "689 514,1134 510,1610 801,1612 1146,-24 1146,-10 935,92 869,91 795,80 770,74 761,72 665,382 673,396 683,424 690,471 691,540 654,579 623,576 578,680 515"/>
+<polygon fill="none" id = "quad_FLOOR1_5250_5833_560_645 _-222.5_1294.8_200.0_3.3_0.0_0.0_0.5_0.5_0.3_1.0_70.0_23.2_5.6" stroke = "#0000FF" points = "288 513,1288 498,3892 1282,-2427 1109"/>
+<polygon fill="none" id = "grid_WALL1_PAINT_0" stroke = "#00FF00" points = "-12 804,70 765,74 761,72 665,79 653,82 636,70 164,396 396,511 468,505 112,504 -24,-28 -69,-87 773,-12 807"/>
+<polygon fill="none" id = "grid_WALL2_ PAINT_0" stroke = "#00FF00" points = "1136 489,694 490,602 520,610 47,545 -7,543 148,520 144,520 116,505 112,504 -24,774 -22,1133 -14,1140 489"/>
+<polygon fill="none" id = "grid_WALL3_PAINT_0" stroke = "#00FF00" points = "1696 -182,1133 -14,1140 489,1634 746,1656 -168"/>
+</svg>

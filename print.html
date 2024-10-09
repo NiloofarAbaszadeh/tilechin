@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>tilery.ir</title>
+
+	<!-- Bootstrap -->
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+	<link href="css/All.css" rel="stylesheet">
+
+</head>
+
+<body class="v-print v-hide">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script>
+
+//--------------------------------------------------
+function init()
+//--------------------------------------------------
+{
+$("body").show();
+var obj=window.opener.visualizer.getPrintData();
+
+$(".v-print-room-image").load(roomImageLoaded);
+$(".v-print-room-image").attr("src",obj.src);
+
+var printItemHTMLTemplate=$(".v-print-tile-thumbnail-template").html();
+
+html="";
+for (var i=0;i<obj.tilesData.length;++i)
+	{
+	tileData=obj.tilesData[i];
+	var h=printItemHTMLTemplate.replace("images/template-placeholder.png",tileData.thumbnailURL);
+	html+=h.replace("[PRINTTILETHUMBNAILTEXT]",tileData.nameText);
+	}
+$(".v-print-tile-thumbnails-inject").html(html);
+}
+
+//--------------------------------------------------
+function roomImageLoaded()
+//--------------------------------------------------
+{
+$(".v-print-message").hide();
+$(".v-print-tiles-used-list").show();
+$(".print-page").show();
+
+window.print();
+}
+
+</script>
+
+</head>
+
+<body class="v-print v-hide">
+
+<div class="container">
+
+	<div class="row">
+		<div class="col-xs-1"></div>
+		<div class="col-xs-10">
+			<p class="v-print-message text-center">Preparing Print...</p>
+		</div>
+		<div class="col-xs-1"></div>
+	</div>
+
+	<div class="row">
+	<div class="col-xs-12">
+		<img class="v-print-room-image" src="" />
+	</div>
+	</div>
+
+	<div class="row v-print-tile-thumbnails-inject">
+		<div class="v-print-tile-thumbnail-template">
+			<div class="col-xs-3">
+				<div class="v-print-tile-thumbnail-container">
+					<img class="v-print-tile-thumbnail" src="images/template-placeholder.png" />
+					<p class="v-print-tile-thumbnail-text"><span>[PRINTTILETHUMBNAILTEXT]</span></p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+<script>
+
+$(window).ready(
+	function()
+	{
+	init();
+	});
+
+</script>
+
+</body>
+</html>

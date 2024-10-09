@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room35_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room35_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room35_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room35_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room35_Cube.jpg</vizidoc:environment>
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "-2 923,421 922,410 958,410 982,1225 982,1225 958,1196 923,1603 922,1606 1206,-38 1210,-26 924"/>
+<polygon fill="none" id = "quad_FLOOR1_4037_2182_807_980" stroke = "#0000FF" points = "-10 912,1610 914,2458 1317,-512 1336"/>
+<polygon fill="none" id = "grid_WALL1_0" stroke = "#00FF00" points = "-5 -5,1606 -6,1604 891,1192 890,1191 407,1197 404,1199 398,1205 397,1205 392,1210 392,1215 392,1215 376,1219 376,1219 372,1011 372,807 372,398 371,398 378,403 378,403 393,414 393,414 399,419 406,427 413,426 894,-5 895"/>
+<polygon fill="none" id = "quad_WALL1_3852_2485_807_900" stroke = "#0000FF" points = "-10 -18,1614 -21,1614 983,-18 983"/>
+<polygon fill="none" id = "grid_FIREPLACE1_0" stroke = "#00FF00" points = "543 522,1073 520,1073 911,1011 911,1010 587,606 588,607 913,542 913"/>
+<polygon fill="none" id = "quad_FIREPLACE1_3852_2485_806_913" stroke = "#0000FF" points = "-10 -18,1614 -21,1614 983,-18 983"/>
+<polygon fill="none" id = "grid_FIREPLACE2_0" stroke = "#00FF00" points = "659 880,659 587,606 588,607 913,659 881"/>
+<polygon fill="none" id = "quad_FIREPLACE2_440_926_607_912" stroke = "#0000FF" points = "603 547,667 583,668 882,604 923"/>
+<polygon fill="none" id = "grid_FIREPLACE3_0" stroke = "#00FF00" points = "964 883,1011 911,1010 587,961 587"/>
+<polygon fill="none" id = "quad_FIREPLACE3_440_926_1012_912" stroke = "#0000FF" points = "957 586,1028 541,1026 936,956 891"/>
+<polygon fill="none" id = "grid_FIREPLACE4_0" stroke = "#00FF00" points = "799 911,1011 911,964 883,961 587,659 587,659 881,607 913"/>
+<polygon fill="none" id = "quad_FIREPLACE4_1031_1031_807_882" stroke = "#0000FF" points = "632 555,985 555,985 900,632 902"/>
+<polygon fill="none" id = "grid_FIREPLACE5_0" stroke = "#00FF00" points = "810 958,1225 958,1196 923,1186 913,1165 913,1075 914,1073 911,607 913,542 913,533 915,450 914,438 916,430 916,422 918,421 922,410 958"/>
+<polygon fill="none" id = "quad_FIREPLACE5_2006_299_805_957" stroke = "#0000FF" points = "411 909,1253 909,1308 960,391 960"/>
+<polygon fill="none" id = "grid_FIREPLACE6_0" stroke = "#00FF00" points = "410 982,410 958,1225 958,1225 982"/>
+<polygon fill="none" id = "quad_FIREPLACE6_2045_196_807_980" stroke = "#0000FF" points = "398 952,1336 951,1342 1001,399 1001"/>
+<polygon fill="none" id = "grid_FIREPLACE7_PAINT_0" stroke = "#00FF00" points = "1219 372,1219 376,1215 376,1215 392,1210 392,1205 392,1205 397,1199 398,1197 404,1191 407,1192 890,1192 918,1190 914,1183 914,1165 913,1075 914,1073 911,1073 520,543 522,542 913,533 915,450 914,438 916,430 916,422 918,427 413,419 406,414 399,414 393,403 393,403 378,398 378,398 371"/>
+</svg>

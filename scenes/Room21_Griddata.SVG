@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.3.3 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="background: grey" version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:hdrmode>3</vizidoc:hdrmode>
+<vizidoc:original>Room21_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room21_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room21_Lighting.jpg</vizidoc:lighting>
+<vizidoc:environment>treesHighSaturation.jpg</vizidoc:environment>
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "283 717,405 701,567 728,1114 725,1147 725,1182 734,1371 715,1375 688,1514 689,1622 727,1630 1082,-21 1074,-3 914,285 760"/>
+<polygon fill="none" id = "quad_FLOOR1_6764_4364_568_728" stroke = "#0000FF" points = "347 664,1597 661,3873 1092,-881 1115"/>
+<polygon fill="none" id = "grid_WALL1_0" stroke = "#00FF00" points = "283 640,283 717,285 760,-3 914,-5 727"/>
+<polygon fill="none" id = "quad_WALL1_1395_481_285_640" stroke = "#0000FF" points = "-3 718,288 633,290 762,-3 917"/>
+<polygon fill="none" id = "grid_WALL2_0" stroke = "#00FF00" points = "567 618,567 728,1114 725,1371 715,1375 688,1514 689,1509 656,1175 658,1173 613,570 618"/>
+<polygon fill="none" id = "quad_WALL2_3743_1054_567_619" stroke = "#0000FF" points = "532 472,1514 467,1517 720,536 734"/>
+<polygon fill="none" id = "grid_WALL3_0" stroke = "#00FF00" points = "543 598,543 486,1407 483,1408 515,1098 517,1103 605,548 606,546 603"/>
+<polygon fill="none" id = "quad_WALL3_4118_1160_1407_485" stroke = "#0000FF" points = "532 470,1514 467,1517 720,536 734"/>
+<polygon fill="none" id = "grid_WALL4_0" stroke = "#00FF00" points = "1408 522,1408 557,1101 557,1098 517,1397 520"/>
+<polygon fill="none" id = "quad_WALL4_4036_1136_1407_522" stroke = "#0000FF" points = "532 477,1514 467,1517 720,536 734"/>
+<polygon fill="none" id = "grid_WALL5_0" stroke = "#00FF00" points = "1098 563,1408 557,1408 645,1176 646,1173 613,1103 605,1101 557"/>
+<polygon fill="none" id = "quad_WALL5_4076_1148_1408_560" stroke = "#0000FF" points = "532 477,1514 467,1517 720,536 734"/>
+<polygon fill="none" id = "grid_WALL6_0" stroke = "#00FF00" points = "1522 483,1522 592,1519 597,1600 611,1622 727,1514 689,1509 656,1408 645,1407 483"/>
+<polygon fill="none" id = "quad_WALL6_948_632_1407_485" stroke = "#0000FF" points = "1409 480,1625 479,1625 727,1412 651"/>
+<polygon fill="none" id = "grid_WALL7_0" stroke = "#00FF00" points = "1634 482,1522 483,1522 592,1626 591,1629 484"/>
+<polygon fill="none" id = "quad_WALL7_423_423_1523_483" stroke = "#0000FF" points = "1517 476,1649 479,1653 612,1518 612"/>
+<polygon fill="none" id = "grid_WALL8_0" stroke = "#00FF00" points = "183 486,241 486,543 486,543 598,510 598,477 599,475 487,433 480,253 619,219 622,186 626,184 557,182 488"/>
+<polygon fill="none" id = "quad_WALL8_1373_499_543_490" stroke = "#0000FF" points = "181 481,548 486,550 596,183 625"/>
+<polygon fill="none" id = "grid_WALL9_0" stroke = "#00FF00" points = "441 496,442 484,475 487,477 599,474 608,570 618,567 728,405 701,405 701,457 690,447 548,442 499"/>
+<polygon fill="none" id = "quad_WALL9_1188_1080_567_619" stroke = "#0000FF" points = "417 476,590 470,597 742,422 707"/>
+<polygon fill="none" id = "grid_WALL10_0" stroke = "#00FF00" points = "57 486,183 486,183 562,58 562"/>
+<polygon fill="none" id = "quad_WALL10_565_323_182_488" stroke = "#0000FF" points = "40 483,191 482,193 572,43 570"/>
+<polygon fill="none" id = "grid_WALL11_0" stroke = "#00FF00" points = "-10 578,185 574,186 626,176 627,174 636,-6 677,-8 581"/>
+<polygon fill="none" id = "quad_WALL11_606_356_185_576" stroke = "#0000FF" points = "-11 575,186 573,186 670,-8 689"/>
+<!-- Global Lights: idx, intensity, P1P2 (not used)  colour pos-->
+<circle fill="none" id = "light_0_0.7_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "621" cy = "848"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "621" y = "868">light_0</text>
+<circle fill="none" id = "light_1_0.7_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "1125" cy = "832"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "1125" y = "852">light_1</text>
+<circle fill="none" id = "light_2_0.7_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "1164" cy = "1016"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "1164" y = "1036">light_2</text>
+<circle fill="none" id = "light_3_0.7_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "449" cy = "1039"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "449" y = "1059">light_3</text>
+<circle fill="none" id = "light_4_2.0_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "1465" cy = "539"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "1465" y = "559">light_4</text>
+<circle fill="none" id = "light_5_1.0_P2" stroke = "#FFFFFF" stroke-width = "3" r = "10" cx = "145" cy = "523"/>
+<text text-anchor="middle" stroke = "#FFFF00" stroke-width = "1px" dy = "0.5em" x = "145" y = "543">light_5</text>
+</svg>

@@ -1,0 +1,299 @@
+#filters > div:nth-child(6) {
+
+    width: 40%;
+
+}
+
+#filters > div:nth-child(7) {
+
+    width: 60%;
+
+}
+
+#filters > div:nth-child(6) > .facetparent-body, #filters > div:nth-child(7) .facetparent-body {
+
+    float: left;
+
+    height: 100px;
+
+    min-height: 47px;
+
+    padding-right: 0;
+
+}
+
+#filters > div:nth-child(6) > .facetparent-body > div, #filters > div:nth-child(7) .facetparent-body > div {
+
+    float: left;
+
+    padding: 5px;
+
+}
+
+.dropdown-heading {
+
+    background-color: #26225D;
+
+    color: #ffffff;
+
+   
+
+    display: block;
+
+    font-size: 18px;
+
+    font-weight: 600;
+
+    padding: 7px 0;
+
+    width: 100%;
+
+}
+
+.col-xs-3:nth-child(4n+1) {
+    clear: both;
+}
+
+.dropdown-heading h3 {
+
+    font-size: 18px;
+
+    margin: 0;
+
+    padding-left: 7px;
+
+    text-transform: capitalize;
+
+}
+
+.facetparent-body {
+
+    border-bottom: 2px solid #58595b;
+
+    border-left: 2px solid #58595b;
+
+    border-right: 2px solid #58595b;
+
+    height: 209px;
+
+    padding: 7px;
+    
+    width: 100%;
+
+}
+
+.facetparent-body > div {
+
+    color: #58595b;
+
+    cursor: pointer;
+
+    font-family: "Open Sans",sans-serif;
+
+    font-size: 11px;
+
+    /*margin-right: 5px;*/
+
+    padding: 1px;
+
+}
+
+.facetparent-body span, .facetcheckbox {
+
+    float: left;
+
+}
+
+.facetcheckbox {
+
+    cursor: pointer;
+
+}
+
+.facetparent {
+
+    background: #ffffff none repeat scroll 0 0;
+
+    float: left;
+
+    margin-bottom: 7px;
+
+    width: 20%;
+
+}
+
+.span-input {
+
+    float: right;
+
+}
+
+/*********************** Css for Add to Basket Button *****************/
+.cut_sample_btn.sample-buy-button.new_cart_button_free{
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f6d06d 0%, #f6c859 24%, #f8c751 28%, #f5c34a 38%, #f6c248 45%, #f2c03d 55%, #f5bc37 76%, #f4bc35 100%) repeat scroll 0 0 !important;
+    border: medium none !important;
+    border-radius: 5px !important;
+    color: #26215f !important;
+    cursor: pointer !important;
+    font-family: arial !important;
+    font-size: 10px !important;
+    font-weight: bold !important;
+    height: 100%;
+    /*line-height: 30px;*/
+    margin-bottom: 5px;
+    min-height: 30px;
+    padding: 0 !important;
+    text-align: center !important;
+    width: 90% !important;
+}
+.item_added_cart{
+    text-align: center;
+    background: #26205e none no-repeat scroll 10px 8px !important;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    height: 100%;
+    vertical-align: middle;
+    margin-bottom: 5px;
+    min-height: 30px;
+    padding: 0 !important;
+    vertical-align: middle;
+    width: 90% !important;
+}
+.mini-cart {
+    width: 300px;
+}
+.drop-down-cart {
+    cursor: pointer;
+    display: inline-block;
+    height: 50px;
+    padding: 0 10px;
+    width: 145px;
+    float: right;
+}
+.cart_img {
+    background: rgba(0, 0, 0, 0) url("../images/sprites.png") no-repeat scroll -161px -14px;
+    float: left;
+    height: 24px;
+    margin-top: 14px;
+    padding: 10px;
+    width: 25px;
+}
+.drop-down-cart > h3 {
+    float: left;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+#cart-Bubble-count
+{
+    background-color: #f00;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    height: 17px;
+    line-height: 15px;
+    padding-right: 0 !important;
+    position: absolute;
+    text-align: center;
+    width: 18px;
+    top:10px;
+}
+#cart-Items{
+    background-color: #fff;
+    box-shadow: 0 0 10px #ccc;
+    display: none;
+    left: 0;
+    line-height: 1.5em;
+    list-style: outside none none;
+    min-width: 130px;
+    padding: 20px;
+    position: absolute;
+    text-align: left;
+    top: 100%;
+}
+.block-subtitle {
+    background: #26205e none repeat scroll 0 0;
+    color: #fff;
+    margin: 0 0 10px;
+    padding: 8px;
+    text-align: center;
+}
+.cartpro_img_div {
+    border: 1px solid #e5e5e5;
+    float: left;
+    padding: 3px;
+    width: 50px;
+}
+.cart_pro_image {
+    max-width: 100%;
+    height: 40px;
+}
+.cart-item-name {
+    color: #888;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.qty_and_price {
+    font-size: 12px;
+    margin-left: 5px;
+}
+.remove_btn {
+    background: rgba(0, 0, 0, 0) url("http://www.tilemountain.co.uk/skin/frontend/ultimo/default/images/img/pix.png") no-repeat scroll 0 -150px;
+    height: 15px;
+    width: 16px;
+}
+.cart_subtotal .block-subtitle{
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    color: #000;
+}
+.actions {
+    border: medium none;
+    margin: 10px 0 0;
+    padding: 0;
+    text-align: left;
+}
+.proceed_checkout {
+    background: rgba(0, 0, 0, 0) url("http://www.tilemountain.co.uk/skin/frontend/ultimo/CoverageCalculator/images/View.png") repeat scroll 0 0 !important;
+    color: #333;
+     display: block;
+    padding: 10px;
+    text-align: center;
+}
+
+
+/****************css added by Haseeb Ahmed******************/
+
+input.facetcheckbox[type=checkbox]:checked + div.filter_checkbox {
+  color: #01AA98;
+  background-color: #01AA98;
+
+} 
+
+.filter_selected{
+    color: #01AA98 !important;
+}
+.facetcheckbox {
+    display: none;
+}
+.facet_filter{
+    position: relative;
+}
+.filter_checkbox {
+    color: #01AA98;
+   border: 1px solid black;
+    float: left;
+    height: 14px;
+    width: 14px;
+    margin-left: 5px;
+}
+.v-show-filters-button1{
+    display:none !important;
+}

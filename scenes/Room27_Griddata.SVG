@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.3.3 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="background: grey" version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:hdrmode>3</vizidoc:hdrmode>
+<vizidoc:original>Room27_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room27_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room27_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room27_Highlights.jpg</vizidoc:highlights>
+<vizidoc:caustic>causticlowsat.jpg</vizidoc:caustic>
+<vizidoc:displacement>displacement.jpg</vizidoc:displacement>	
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "-6 538,338 488,347 512,363 512,366 486,442 489,470 481,665 535,1607 750,1603 1039,241 572,67 583,56 594,-14 606"/>
+<polygon fill="none" id = "quad_FLOOR1_3343_6687_859_785" stroke = "#0000FF" points = "-172 563,404 476,1975 835,1500 1453"/>
+<polygon fill="none" id = "grid_FLOOR2_0" stroke = "#00FF00" points = "1603 1039,241 572,257 593,1611 1073"/>
+<polygon fill="none" id = "quad_FLOOR2_150_5100_859_785" stroke = "#0000FF" points = "239 568,241 591,1609 1089,1613 1041"/>
+<polygon fill="none" id = "grid_POOL1_0" stroke = "#00FF00" points = "-68 679,184 619,1417 1168,-38 1124,-78 676"/>
+<polygon fill="none" id = "quad_POOL1_5202_6120_184_621" stroke = "#0000FF" points = "-625 760,243 567,1640 1153,1084 1957"/>
+<polygon fill="none" id = "grid_POOL2_0" stroke = "#00FF00" points = "1464 1091,1417 1168,184 619,183 582,257 593,1611 1073"/>
+<polygon fill="none" id = "quad_POOL2_6539_1211_184_621" stroke = "#0000FF" points = "160 553,1622 1072,1625 1357,160 685"/>
+<polygon fill="none" id = "grid_POOL3_0" stroke = "#00FF00" points = "-156 672,-14 606,56 594,183 582,184 619,-68 679"/>
+<polygon fill="none" id = "quad_POOL3_2416_911_184_621" stroke = "#0000FF" points = "-128 613,226 546,230 645,-123 739"/>
+<polygon fill="none" id = "grid_WATER1_0" stroke = "#00FF00" points = "-24 620,13 610,37 608,53 604,59 608,63 622,81 632,96 634,111 637,121 635,132 634,144 637,148 639,153 642,162 641,171 642,191 640,209 635,221 625,247 614,254 606,258 603,260 601,260 599,263 597,270 602,315 618,347 632,392 645,435 663,480 680,505 689,525 696,546 704,570 712,602 722,642 737,653 742,671 749,700 760,723 768,741 776,762 782,793 792,813 800,839 809,864 818,883 824,924 838,963 853,993 866,1036 880,1072 890,1109 905,1144 916,1185 933,1252 958,1283 966,1329 984,1385 1005,1429 1024,1465 1036,1515 1052,1568 1072,1568 1086,-28 1077"/>
+<polygon fill="none" id = "quad_WATER1_5202_6120_N_N" stroke = "#0000FF" points = "-644 736,188 566,1677 1106,1084 1957"/>
+</svg>

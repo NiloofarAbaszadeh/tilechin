@@ -1,0 +1,118 @@
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+
+li.v-actiond[data-v-action="SelectTileCategory=Recent"] {
+    display: none;
+}
+
+#tile-search_input {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    height: 34px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 100%;
+}
+
+.facet_filter label {
+    font-weight: normal;
+}
+
+    .facet_filter label:hover {
+        cursor: pointer;
+    }
+
+#ajaxcartpro-progress {
+    display: block;
+    position: absolute;
+    top: 30%;
+    left: 42.5%;
+    border: 1px #999999 solid;
+    text-align: center;
+    padding: 10px;
+    background-color: #ffffff;
+    color: black;
+    overflow: auto;
+    min-height: 50px;
+    min-width: 260px;
+    z-index: 101;
+}
+
+.nav.nav-tabs.v-rooms-popup-tabs {
+    top: 0 !important;
+    display: block;
+}
+
+.v-room-thumbnails-container {
+    border-top: 1px solid #ddd;
+    overflow-y: auto;
+    /*top: 97px !important;*/
+}
+
+.v-room-thumbnails-container {
+    border: none;
+}
+
+ul.nav.nav-tabs.v-tiles-popup-tabs.v-tiles-popup-tabs-inject {
+    display: none;
+}
+
+.v-tiles-popup-container .v-tile-thumbnails-container {
+    border: none;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding-top: 5px;
+}
+
+.v-rooms-popup-container {
+    top: 1%;
+    background-color: #fff;
+    height: 98%;
+}
+
+.v-rooms-popup.v-hide .container.v-height-100 {
+    width: 100% !important;
+}
+
+.v-rooms-popup.v-hide .col-xs-10.v-height-100 {
+    width: 100%;
+    padding: 0;
+}
+
+.row.v-room-thumbnails-inject .col-xs-3 {
+    width: 20%;
+    clear: none;
+}
+
+.v-tiles-popup-container {
+    top: 1%;
+    background-color: #fff;
+    height: 98%;
+}
+
+.v-tiles-popup.v-hide .container.v-height-100 {
+    width: 100% !important;
+}
+
+.v-tiles-popup.v-hide .col-xs-10.v-height-100 {
+    width: 100%;
+    padding: 0;
+}
+
+.v-tile-thumbnail-container .vs-p-name {
+    width: 100%;
+}

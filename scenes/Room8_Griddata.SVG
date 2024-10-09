@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room8_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room8_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room8_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room8_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room8_Cube.jpg</vizidoc:environment>
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "-28 794,874 620,1630 716,1652 1100,-26 1102"/>
+<polygon fill="none" id = "quad_FLOOR1_6312_5260_334_1020_0.0_-120.0_200.0_1.7_0.0_0.0_0.5_0.6_0.7_1.0_-33.4_-39.3_0.0" stroke = "#0000FF" points = "-238 724,769 598,1804 726,483 3506"/>
+</svg>

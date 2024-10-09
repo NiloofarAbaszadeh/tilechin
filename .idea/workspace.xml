@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93a452c1-748a-4fe4-8efe-a7139992c2f6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chideman.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chideman.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24055">
+              <caret line="1415" column="10" lean-forward="false" selection-start-line="1415" selection-start-column="10" selection-end-line="1415" selection-end-column="10" />
+              <folding>
+                <marker date="1556571260498" expanded="true" signature="213:235" ph="SELECT * FRO... tilesize" />
+                <marker date="1556571260498" expanded="true" signature="353:377" ph="SELECT * FRO... tilecolour" />
+                <marker date="1556571260498" expanded="true" signature="502:526" ph="SELECT * FRO... tilefinish" />
+                <marker date="1556571260498" expanded="true" signature="651:677" ph="SELECT * FRO... tilematerial" />
+                <marker date="1556571260498" expanded="true" signature="810:834" ph="SELECT * FRO... tileusages" />
+                <marker date="1556571260498" expanded="true" signature="6806:6822" ph="..." />
+                <marker date="1556571260498" expanded="true" signature="7899:7918" ph="..." />
+                <marker date="1556571260498" expanded="true" signature="31914:31960" ph="SELECT * FRO... tilesize" />
+                <marker date="1556571260498" expanded="true" signature="32148:32204" ph="SELECT * FRO... tilesize" />
+                <marker date="1556571260498" expanded="true" signature="32392:32448" ph="SELECT * FRO... tilesize" />
+                <marker date="1556571260498" expanded="true" signature="42165:42232" ph="SELECT * FRO... tile_xml_table" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>VDatabase</find>
+      <find>برند</find>
+      <find>430265</find>
+      <find>filter_size</find>
+      <find>tile_details</find>
+      <find>4sample3</find>
+      <find>tora</find>
+      <find>toranje</find>
+      <find>tor</find>
+      <find>430830</find>
+      <find>grout</find>
+      <find>tava</find>
+      <find>tilesearch</find>
+      <find>term_searched</find>
+      <find>cs_ty</find>
+      <find>content.hits</find>
+      <find>prod</find>
+      <find>search-gallery</find>
+      <find>result</find>
+      <find>v-actiond</find>
+      <find>products</find>
+      <find>searchimage</find>
+      <find>رسانی</find>
+      <find>بارگزاری</find>
+      <find>content</find>
+      <find>showmodal</find>
+      <find>$size_length</find>
+      <find>colourlen</find>
+      <find>$colour_length</find>
+      <find>img-list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>col-md-4</replace>
+      <replace>col-md-2</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/index.html" />
+        <option value="$PROJECT_DIR$/settings_main.php" />
+        <option value="$PROJECT_DIR$/edit_tile.php" />
+        <option value="$USER_HOME$/Desktop/php into instagram/index.php" />
+        <option value="$USER_HOME$/Desktop/php into instagram/sendpost.php" />
+        <option value="$PROJECT_DIR$/page.php" />
+        <option value="$PROJECT_DIR$/page/page.php" />
+        <option value="$PROJECT_DIR$/chideman2.php" />
+        <option value="$PROJECT_DIR$/pageination.php" />
+        <option value="$PROJECT_DIR$/pageindex.php" />
+        <option value="$PROJECT_DIR$/t.html" />
+        <option value="$PROJECT_DIR$/chideman3.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/add_user.php" />
+        <option value="$PROJECT_DIR$/session.php" />
+        <option value="$PROJECT_DIR$/chideman-en.html" />
+        <option value="$PROJECT_DIR$/chideman-en.php" />
+        <option value="$PROJECT_DIR$/logout_en.php" />
+        <option value="$PROJECT_DIR$/userpage_en.php" />
+        <option value="$PROJECT_DIR$/settings.php" />
+        <option value="$PROJECT_DIR$/settings_en.php" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/js/jquery-3.3.1.min.js" />
+        <option value="$PROJECT_DIR$/js/TilingEngineAll-min.js" />
+        <option value="$PROJECT_DIR$/js/all.min.js" />
+        <option value="$PROJECT_DIR$/visualiser.xml" />
+        <option value="$PROJECT_DIR$/products.json" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/get_from_xml.php" />
+        <option value="$PROJECT_DIR$/adminpage.php" />
+        <option value="$PROJECT_DIR$/loginpage.php" />
+        <option value="$PROJECT_DIR$/search_xml.php" />
+        <option value="$PROJECT_DIR$/js/main.min.js" />
+        <option value="$PROJECT_DIR$/tile_details.php" />
+        <option value="$PROJECT_DIR$/Tile_save_edit.php" />
+        <option value="$PROJECT_DIR$/Tile_save_delete.php" />
+        <option value="$PROJECT_DIR$/Tile_Edit.php" />
+        <option value="$PROJECT_DIR$/add_new_tile_en.php" />
+        <option value="$PROJECT_DIR$/js/All-en.min.js" />
+        <option value="$PROJECT_DIR$/loginpage-en.php" />
+        <option value="$PROJECT_DIR$/Tile_Edit_en.php" />
+        <option value="$PROJECT_DIR$/Tile_save_delete_en.php" />
+        <option value="$PROJECT_DIR$/Tile_save_edit_en.php" />
+        <option value="$PROJECT_DIR$/index-en.php" />
+        <option value="$PROJECT_DIR$/adminpage-en.php" />
+        <option value="$PROJECT_DIR$/chideman_en.php" />
+        <option value="$PROJECT_DIR$/add_new_tile.php" />
+        <option value="$PROJECT_DIR$/demo.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/userpage.php" />
+        <option value="$PROJECT_DIR$/chideman.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="273" />
+    <option name="y" value="14" />
+    <option name="width" value="996" />
+    <option name="height" value="391" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpDeprecationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="htdocs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="htdocs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="dd&#9;null&#9;null&#10;room10&#9;FILE&#9;file://D:/xampp/htdocs/scenes/Room10_Cube.jpg&#10;rom10&#9;null&#9;null&#10;Room1&#9;FILE&#9;file://D:/xampp/htdocs/scenes/Room10_Cube.jpg" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93a452c1-748a-4fe4-8efe-a7139992c2f6" name="Default" comment="" />
+      <created>1547354771616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547354771616</updated>
+      <workItem from="1547354772897" duration="5870000" />
+      <workItem from="1547442284877" duration="19048000" />
+      <workItem from="1547530384945" duration="4795000" />
+      <workItem from="1547537581488" duration="11879000" />
+      <workItem from="1547614681571" duration="19733000" />
+      <workItem from="1547636160879" duration="1044000" />
+      <workItem from="1547873870625" duration="11579000" />
+      <workItem from="1547889003470" duration="4815000" />
+      <workItem from="1547960924503" duration="12861000" />
+      <workItem from="1547974710311" duration="7977000" />
+      <workItem from="1547982858471" duration="203000" />
+      <workItem from="1548048834252" duration="20029000" />
+      <workItem from="1548132916909" duration="4608000" />
+      <workItem from="1548149710342" duration="1364000" />
+      <workItem from="1548220059517" duration="648000" />
+      <workItem from="1548479229353" duration="21735000" />
+      <workItem from="1548565080815" duration="19649000" />
+      <workItem from="1548656982001" duration="13384000" />
+      <workItem from="1548738657626" duration="1045000" />
+      <workItem from="1548747282758" duration="11250000" />
+      <workItem from="1548824780828" duration="9000" />
+      <workItem from="1548824953755" duration="22607000" />
+      <workItem from="1548848147161" duration="300000" />
+      <workItem from="1548848612760" duration="1244000" />
+      <workItem from="1549082611473" duration="18597000" />
+      <workItem from="1549169825465" duration="10505000" />
+      <workItem from="1549257639072" duration="10101000" />
+      <workItem from="1549271150301" duration="1882000" />
+      <workItem from="1549273405236" duration="5195000" />
+      <workItem from="1549343209647" duration="9454000" />
+      <workItem from="1549357001887" duration="6437000" />
+      <workItem from="1549430013658" duration="19108000" />
+      <workItem from="1549774294779" duration="21608000" />
+      <workItem from="1549948027622" duration="19774000" />
+      <workItem from="1550294321987" duration="17393000" />
+      <workItem from="1550315373379" duration="83000" />
+      <workItem from="1550380211804" duration="18130000" />
+      <workItem from="1550466353677" duration="7265000" />
+      <workItem from="1551427114127" duration="625000" />
+      <workItem from="1551431059708" duration="9395000" />
+      <workItem from="1551589121716" duration="14458000" />
+      <workItem from="1551604680122" duration="5050000" />
+      <workItem from="1551675318429" duration="19223000" />
+      <workItem from="1551762000895" duration="15712000" />
+      <workItem from="1551848734544" duration="16770000" />
+      <workItem from="1552114437906" duration="11940000" />
+      <workItem from="1552197763939" duration="6171000" />
+      <workItem from="1552204793543" duration="7123000" />
+      <workItem from="1552280363782" duration="16053000" />
+      <workItem from="1552299413614" duration="599000" />
+      <workItem from="1554522903259" duration="1812000" />
+      <workItem from="1555863039857" duration="18664000" />
+      <workItem from="1555990696504" duration="21287000" />
+      <workItem from="1556076594993" duration="8844000" />
+      <workItem from="1556164416897" duration="18870000" />
+      <workItem from="1556335135570" duration="21103000" />
+      <workItem from="1556421370597" duration="24114000" />
+      <workItem from="1556508956360" duration="10698000" />
+      <workItem from="1556525337065" duration="602000" />
+      <workItem from="1556569448099" duration="2017000" />
+      <workItem from="1571424195897" duration="1327000" />
+      <workItem from="1571476048359" duration="701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="654716000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17794117" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5025" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.4975" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/t.html" />
+    <entry file="file://$PROJECT_DIR$/chideman3.php" />
+    <entry file="file://$PROJECT_DIR$/add_new_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1796">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php" />
+    <entry file="file://$PROJECT_DIR$/settings_main.php" />
+    <entry file="file://$PROJECT_DIR$/pageindex.php" />
+    <entry file="file://$PROJECT_DIR$/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userpage_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="121" column="42" lean-forward="false" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.3.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1" column="79668" lean-forward="false" selection-start-line="1" selection-start-column="79663" selection-end-line="1" selection-end-column="79668" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="67" lean-forward="true" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tavakkoli/tilechin/products.json" />
+    <entry file="file://D:/tavakkoli/tilechin/visualiser.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="722" column="31" lean-forward="false" selection-start-line="722" selection-start-column="31" selection-end-line="722" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/visualiser.xml" />
+    <entry file="file://D:/tavakkoli/tilechin/index.html" />
+    <entry file="file://$PROJECT_DIR$/search2.php" />
+    <entry file="file://$PROJECT_DIR$/js/RendererAll-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/TilingEngineAll-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="393" column="19" lean-forward="false" selection-start-line="393" selection-start-column="12" selection-end-line="393" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loade_tile.php" />
+    <entry file="file://$PROJECT_DIR$/visualiser1.xml" />
+    <entry file="file://$PROJECT_DIR$/js/all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1201" column="18" lean-forward="false" selection-start-line="1191" selection-start-column="3" selection-end-line="1208" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/All-en.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1099" column="16" lean-forward="true" selection-start-line="1099" selection-start-column="16" selection-end-line="1099" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products.json" />
+    <entry file="file://$PROJECT_DIR$/add_new_tile_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="129" column="62" lean-forward="false" selection-start-line="129" selection-start-column="58" selection-end-line="129" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="88" column="101" lean-forward="false" selection-start-line="88" selection-start-column="101" selection-end-line="88" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tile_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_Edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1487">
+          <caret line="936" column="21" lean-forward="true" selection-start-line="936" selection-start-column="21" selection-end-line="936" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_Edit_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_save_delete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="79" column="10" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_save_delete_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" column="40" lean-forward="false" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_save_edit_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="420" column="0" lean-forward="true" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="119" column="9" lean-forward="false" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginpage-en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tile_save_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3995">
+          <caret line="421" column="6" lean-forward="true" selection-start-line="421" selection-start-column="6" selection-end-line="421" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chideman-en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14977">
+          <caret line="881" column="23" lean-forward="true" selection-start-line="881" selection-start-column="11" selection-end-line="881" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminpage-en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="126" column="70" lean-forward="false" selection-start-line="126" selection-start-column="70" selection-end-line="126" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/980204/htdocs/chideman.php" />
+    <entry file="file://$PROJECT_DIR$/chideman_en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="215" column="9" lean-forward="false" selection-start-line="215" selection-start-column="9" selection-end-line="215" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_new_tile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="596" column="41" lean-forward="false" selection-start-line="596" selection-start-column="41" selection-end-line="596" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.php" />
+    <entry file="file://$PROJECT_DIR$/userpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminpage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="121" column="55" lean-forward="false" selection-start-line="121" selection-start-column="55" selection-end-line="121" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chideman.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24055">
+          <caret line="1415" column="10" lean-forward="false" selection-start-line="1415" selection-start-column="10" selection-end-line="1415" selection-end-column="10" />
+          <folding>
+            <marker date="1556571260498" expanded="true" signature="213:235" ph="SELECT * FRO... tilesize" />
+            <marker date="1556571260498" expanded="true" signature="353:377" ph="SELECT * FRO... tilecolour" />
+            <marker date="1556571260498" expanded="true" signature="502:526" ph="SELECT * FRO... tilefinish" />
+            <marker date="1556571260498" expanded="true" signature="651:677" ph="SELECT * FRO... tilematerial" />
+            <marker date="1556571260498" expanded="true" signature="810:834" ph="SELECT * FRO... tileusages" />
+            <marker date="1556571260498" expanded="true" signature="6806:6822" ph="..." />
+            <marker date="1556571260498" expanded="true" signature="7899:7918" ph="..." />
+            <marker date="1556571260498" expanded="true" signature="31914:31960" ph="SELECT * FRO... tilesize" />
+            <marker date="1556571260498" expanded="true" signature="32148:32204" ph="SELECT * FRO... tilesize" />
+            <marker date="1556571260498" expanded="true" signature="32392:32448" ph="SELECT * FRO... tilesize" />
+            <marker date="1556571260498" expanded="true" signature="42165:42232" ph="SELECT * FRO... tile_xml_table" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

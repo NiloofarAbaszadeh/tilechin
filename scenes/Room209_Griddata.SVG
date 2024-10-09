@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room209_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room209_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room209_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room209_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room9_Cube.jpg</vizidoc:environment>	
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "185 786,282 786,283 793,287 793,291 793,291 811,1221 812,1281 859,1284 863,1286 864,1340 906,1346 912,1347 915,1397 951,1428 972,1444 989,1617 988,1617 1106,-16 1106,-14 873,185 842,189 788"/>
+<polygon fill="none" id = "quad_FLOOR1_5057_2733_234_789_-198.0_235.6_200.0_3.8" stroke = "#0000FF" points = "36 783,1599 784,2607 1206,-891 1207"/>
+<polygon fill="none" id = "grid_WALL1_0" stroke = "#00FF00" points = "101 -17,112 788,185 786,282 786,283 734,282 532,276 532,275 523,290 516,471 516,571 517,620 520,803 523,804 517,846 518,926 518,1044 520,1107 519,1107 219,1127 209,1351 208,1351 0,101 -20"/>
+<polygon fill="none" id = "quad_WALL1_4192_2620_1352_518_-30.0_40.5_62.2_2.9_0.0_0.0_0.5_0.4_0.4_1.0_0.0_-13.9_0.0" stroke = "#0000FF" points = "60 -52,1414 -40,1410 811,58 809"/>
+<polygon fill="none" id = "grid_WALL2_0" stroke = "#00FF00" points = "1645 -62,1351 0,1351 208,1378 208,1378 285,1378 363,1353 521,1526 541,1604 555,1618 -51,1637 -56"/>
+<polygon fill="none" id = "quad_WALL2_1654_2068_1352_518" stroke = "#0000FF" points = "1342 -112,1658 -352,1661 615,1342 548"/>
+<polygon fill="none" id = "grid_WALL3_0" stroke = "#00FF00" points = "-508 -22,101 -17,112 788,-406 808,-452 2,-460 0,-464 -6"/>
+<polygon fill="none" id = "quad_WALL3_2500_2381_106_514" stroke = "#0000FF" points = "-550 -294,108 -63,116 720,-558 926"/>	
+<polygon fill="none" id = "grid_CUPBOARD1_0" stroke = "#00FF00" points = "305 770,305 792,298 792,291 793,283 793,283 734,282 532,305 533,305 556,458 556,458 534,504 535,504 557,589 557,589 536,611 535,611 600,587 600,587 576,503 576,503 600,481 599,481 696,481 794,457 793,457 770"/>
+<polygon fill="none" id = "grid_CUPBOARD1_1" stroke = "#00FF00" points = "505 793,481 794,481 599,503 600,504 622,588 622,587 600,611 600,612 792,590 792,590 769,505 770"/>
+<polygon fill="none" id = "grid_CUPBOARD1_2" stroke = "#00FF00" points = "1193 598,1171 599,1171 577,1087 577,1087 599,1044 599,1043 577,958 578,958 599,914 599,914 578,830 577,829 599,807 600,806 537,829 537,829 557,913 557,914 538,958 538,958 557,1042 558,1042 537,1088 537,1088 557,1171 558,1172 536,1193 535"/>
+<polygon fill="none" id = "grid_CUPBOARD1_3" stroke = "#00FF00" points = "1194 790,1171 791,1171 769,1088 769,1088 792,1043 792,1042 769,959 770,960 795,912 794,912 771,830 771,830 795,807 795,807 600,829 599,829 624,912 624,914 599,958 599,959 624,1042 623,1044 599,1087 599,1087 623,1171 623,1171 599,1193 598"/>
+<polygon fill="none" id = "quad_CUPBOARD1_3071_903_N_N" stroke = "#0000FF" points = "275 529,1197 529,1197 796,276 797"/>
+<polygon fill="none" id = "grid_CUPBOARD2_0" stroke = "#00FF00" points = "305 533,458 534,458 556,305 556"/>
+<polygon fill="none" id = "grid_CUPBOARD2_1" stroke = "#00FF00" points = "305 792,305 770,457 770,457 793"/>
+<polygon fill="none" id = "grid_CUPBOARD2_2" stroke = "#00FF00" points = "504 557,504 535,589 536,589 557"/>
+<polygon fill="none" id = "grid_CUPBOARD2_3" stroke = "#00FF00" points = "504 622,503 611,503 600,503 576,587 576,587 600,588 622"/>
+<polygon fill="none" id = "grid_CUPBOARD2_4" stroke = "#00FF00" points = "505 793,505 770,590 769,590 792"/>
+<polygon fill="none" id = "grid_CUPBOARD2_5" stroke = "#00FF00" points = "612 792,612 727,808 728,807 795"/>
+<polygon fill="none" id = "grid_CUPBOARD2_6" stroke = "#00FF00" points = "829 557,829 537,914 538,913 557"/>
+<polygon fill="none" id = "grid_CUPBOARD2_7" stroke = "#00FF00" points = "829 624,829 599,830 577,914 578,914 599,912 624"/>
+<polygon fill="none" id = "grid_CUPBOARD2_8" stroke = "#00FF00" points = "830 795,830 771,912 771,912 794"/>
+<polygon fill="none" id = "grid_CUPBOARD2_9" stroke = "#00FF00" points = "958 557,958 538,1042 537,1042 558"/>
+<polygon fill="none" id = "grid_CUPBOARD2_10" stroke = "#00FF00" points = "959 624,958 611,958 599,958 578,1043 577,1044 599,1043 611,1042 623"/>
+<polygon fill="none" id = "grid_CUPBOARD2_11" stroke = "#00FF00" points = "960 795,959 770,1042 769,1043 792"/>
+<polygon fill="none" id = "grid_CUPBOARD2_12" stroke = "#00FF00" points = "1088 557,1088 537,1172 536,1171 558"/>
+<polygon fill="none" id = "grid_CUPBOARD2_13" stroke = "#00FF00" points = "1087 623,1087 577,1171 577,1171 599,1171 623"/>
+<polygon fill="none" id = "grid_CUPBOARD2_14" stroke = "#00FF00" points = "1088 792,1088 769,1171 769,1171 791"/>
+<polygon fill="none" id = "quad_CUPBOARD2_903_3071_N_N" stroke = "#0000FF" points = "276 797,275 529,1197 529,1197 796"/>
+<polygon fill="none" id = "grid_CUPBOARD3_0" stroke = "#00FF00" points = "1149 355,1149 333,1150 312,1231 312,1231 231,1149 231,1149 207,1138 209,1127 209,1117 214,1107 219,1107 519,1120 520,1127 521,1127 521,1127 522,1149 522,1149 500,1229 500,1229 522,1273 522,1273 499,1345 499,1353 354,1273 356,1273 312,1355 312,1355 338,1377 337,1378 285,1378 208,1355 208,1355 230,1274 230,1274 209,1231 208,1231 354"/>
+<polygon fill="none" id = "quad_CUPBOARD3_1003_955_N_N" stroke = "#0000FF" points = "1104 204,1391 202,1397 526,1105 529"/>
+<polygon fill="none" id = "grid_CUPBOARD4_0" stroke = "#00FF00" points = "1149 231,1149 207,1231 208,1231 231"/>
+<polygon fill="none" id = "grid_CUPBOARD4_1" stroke = "#00FF00" points = "1149 355,1149 333,1150 312,1231 312,1231 354"/>
+<polygon fill="none" id = "grid_CUPBOARD4_2" stroke = "#00FF00" points = "1149 522,1149 500,1229 500,1229 522"/>
+<polygon fill="none" id = "grid_CUPBOARD4_3" stroke = "#00FF00" points = "1274 230,1274 209,1351 208,1358 209,1355 230"/>
+<polygon fill="none" id = "grid_CUPBOARD4_4" stroke = "#00FF00" points = "1273 356,1273 312,1355 312,1355 338,1353 354"/>
+<polygon fill="none" id = "grid_CUPBOARD4_5" stroke = "#00FF00" points = "1273 522,1273 499,1345 499,1346 522"/>
+<polygon fill="none" id = "quad_CUPBOARD4_912_912_N_N" stroke = "#0000FF" points = "1123 530,1123 204,1391 202,1397 526"/>
+<polygon fill="none" id = "grid_CUPBOARD5_0" stroke = "#00FF00" points = "1402 584,1403 949,1397 951,1385 943,1386 911,1355 888,1353 920,1337 905,1337 873,1295 842,1294 871,1281 859,1282 832,1244 804,1243 830,1231 821,1232 793,1201 774,1201 798,1194 790,1193 598,1193 535,1200 537,1200 559,1225 565,1225 543,1243 547,1243 571,1276 579,1277 556,1295 559,1295 583,1334 594,1335 569,1353 573,1352 601,1383 609,1384 581,1392 583,1401 584"/>
+<polygon fill="none" id = "quad_CUPBOARD5_1725_986_N_N" stroke = "#0000FF" points = "1184 524,1409 571,1417 979,1183 802"/>
+<polygon fill="none" id = "grid_CUPBOARD6_0" stroke = "#00FF00" points = "1200 559,1200 537,1225 543,1225 565"/>
+<polygon fill="none" id = "grid_CUPBOARD6_1" stroke = "#00FF00" points = "1243 571,1243 547,1277 556,1276 579"/>
+<polygon fill="none" id = "grid_CUPBOARD6_2" stroke = "#00FF00" points = "1295 583,1295 559,1335 569,1334 594"/>
+<polygon fill="none" id = "grid_CUPBOARD6_3" stroke = "#00FF00" points = "1352 601,1353 573,1384 581,1383 609"/>
+<polygon fill="none" id = "grid_CUPBOARD6_4" stroke = "#00FF00" points = "1201 798,1201 774,1232 793,1231 821"/>
+<polygon fill="none" id = "grid_CUPBOARD6_5" stroke = "#00FF00" points = "1243 830,1244 804,1282 832,1281 859"/>
+<polygon fill="none" id = "grid_CUPBOARD6_6" stroke = "#00FF00" points = "1294 871,1295 842,1337 873,1337 905"/>
+<polygon fill="none" id = "grid_CUPBOARD6_7" stroke = "#00FF00" points = "1353 920,1355 888,1386 911,1385 943"/>
+<polygon fill="none" id = "quad_CUPBOARD6_986_1725_N_N" stroke = "#0000FF" points = "1183 802,1184 524,1409 571,1417 979"/>
+<polygon fill="none" id = "grid_CUPBOARD7_0" stroke = "#00FF00" points = "1600 583,1401 584,1403 949,1403 954,1601 957"/>
+<polygon fill="none" id = "quad_CUPBOARD7_485_970_N_N" stroke = "#0000FF" points = "1400 579,1603 579,1605 966,1397 960"/>
+<polygon fill="none" id = "grid_WORKTOP1_0" stroke = "#00FF00" points = "305 533,282 532,276 532,275 523,290 516,471 516,620 520,803 523,804 517,846 518,926 518,1044 520,1107 519,1120 520,1127 521,1149 522,1229 522,1273 522,1346 522,1353 521,1369 523,1368 527,1194 525,1193 535,1172 536,1088 537,1042 537,958 538,914 538,829 537,806 537,611 535,589 536,504 535,458 534"/>
+<polygon fill="none" id = "grid_WORKTOP1_1" stroke = "#00FF00" points = "1634 579,1600 583,1402 584,1403 570,1607 570"/>
+<polygon fill="none" id = "quad_WORKTOP1_1050_3835_N_N" stroke = "#0000FF" points = "-45 645,293 509,1556 521,2093 640"/>
+<polygon fill="none" id = "grid_WORKTOP2_0" stroke = "#00FF00" points = "1621 565,1607 570,1403 570,1402 584,1392 583,1384 581,1353 573,1335 569,1295 559,1277 556,1243 547,1225 543,1200 537,1193 535,1194 525,1346 522,1604 555"/>
+<polygon fill="none" id = "quad_WORKTOP2_818_1432_N_N" stroke = "#0000FF" points = "1036 523,1384 512,1951 619,1412 623"/>
+</svg>

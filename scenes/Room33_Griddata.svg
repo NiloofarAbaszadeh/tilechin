@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Mapper 4.0.0.6 - Visualize IT Ltd, SVG Export. SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="grids" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc xmlns:vizidoc="http://www.visualize-it.com/vizidoc">
+<vizidoc:original>Room33_Original.jpg</vizidoc:original>
+<vizidoc:mask>Room33_Mask.jpg</vizidoc:mask>
+<vizidoc:lighting>Room33_Lighting.jpg</vizidoc:lighting>
+<vizidoc:highlights>Room33_Highlights.jpg</vizidoc:highlights>
+<vizidoc:environment>Room33_Cube.jpg</vizidoc:environment>
+</desc>
+<polygon fill="none" id = "grid_FLOOR1_0" stroke = "#00FF00" points = "-6 714,669 630,693 634,709 635,713 648,737 648,757 648,761 640,779 636,775 616,1206 570,1619 608,1617 1062,-17 1063,-21 722"/>
+<polygon fill="none" id = "quad_FLOOR1_5250_8244_761_643_1729.9_9000.0_2666.2_2.5" stroke = "#0000FF" points = "1208 563,2405 673,1170 2303,-308 749"/>
+<polygon fill="none" id = "grid_WALL1_0" stroke = "#00FF00" points = "-4 495,385 482,388 -8,668 -4,660 630,-6 714,-5 500"/>
+<polygon fill="none" id = "quad_WALL1_9166_3985_385_482_0.0_169.2_200.0_2.3" stroke = "#0000FF" points = "-58 -414,1370 16,1364 582,-64 802"/>
+<polygon fill="none" id = "grid_WALL2_0" stroke = "#00FF00" points = "1616 -28,1618 96,1462 90,1384 114,757 195,751 645,660 630,668 -4,1608 -16"/>
+<polygon fill="none" id = "quad_WALL2_5000_3155_662_470_169.2_2510.2_1885.9_3.6" stroke = "#0000FF" points = "638 -26,1702 -384,1674 882,631 658"/>
+<polygon fill="none" id = "grid_WALL3_0" stroke = "#00FF00" points = "1632 116,1474 110,1438 146,1212 172,1206 570,1619 608,1618 96"/>
+<polygon fill="none" id = "quad_WALL3_2802_2802_1205_554" stroke = "#0000FF" points = "1209 130,1635 81,1644 623,1204 574"/>
+<polygon fill="none" id = "grid_WALL4_0" stroke = "#00FF00" points = "778 600,780 202,1024 168,1116 156,1212 172,1209 371,1206 570,943 585,780 604"/>
+<polygon fill="none" id = "quad_WALL4_9166_3985_779_604" stroke = "#0000FF" points = "-48 -404,1370 16,1364 582,-64 802"/>
+<polygon fill="none" id = "grid_WALL5_0" stroke = "#00FF00" points = "368 -4,362 484,385 482,388 -8"/>
+<polygon fill="none" id = "quad_WALL5_1300_2124_385_482_-2171.9_2120.1_1300.6_5.5" stroke = "#0000FF" points = "350 -42,679 -122,668 502,348 490"/>
+</svg>
